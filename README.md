@@ -16,3 +16,15 @@
 # Los comandos que me indica para crear un repositorio son:
 # echo "# Pr-ctica-3---GitHub-y-repositorio-remoto" >> README.md
 # git init, git add README.md, git commit -m "first commit", git branch -M main, git remote add origin https://github.com/Aitor-685/Pr-ctica-3---GitHub-y-repositorio-remoto.git y git push -u origin main
+
+# 2.2 Utilice el comando git checkout -b feature/documentacion para crear una rama y cambiarme a ella despues cree el archivo docs.md y despues para
+# rellenar use un echo, despues lo añadi con el git add y despues hice el commit y por ultimo use el comando git diff para ver las diferencias 
+# entre ambas ramas que tengo.
+
+# 2.3 Por ultimo cambia a la rama main y despues hice git pull  para descargar y fusionar los cambios mas recientes
+
+# 3.1 Cree el archivo app.py dentro del direcotrio src con el comando touch y despues lo llene con el comando echo despues lo añadi con el add 
+# despues un commit y por ultimo hice un status para ver el estado y por ultimo visualice el historial de commit.
+
+# 3.2 Borre el archivo app.py con el comando rm src/app.py, despues para recuperar el archivo use el comando git checkout -- src/app.py y por ultimo use el comando ls src/ 
+# para confirmar que lo he recuperado.
